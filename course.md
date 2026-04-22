@@ -1,0 +1,3 @@
+# Micro:bit Workshop
+
+A micro:bit is a pocket-sized, programmable microcontroller designed for education and beginners to learn coding and electronics. Developed by the BBC, this small, wearable computer (smaller than a credit card) features an LED display, buttons, sensors (accelerometer, compass), and Bluetooth connectivity, allowing it to interact with other devices and create interactive projects.
